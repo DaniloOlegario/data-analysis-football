@@ -44,5 +44,3 @@ A análise foi conduzida usando o conjunto de dados para responder a perguntas t
 3.  Execute o script principal para ver os resultados no terminal: `python src/main.py`
 
 ---
-
-Após criar este `README.md`, você pode seguir com o **upload dos arquivos** para um novo repositório no GitHub. Quer ajuda com os comandos Git?
